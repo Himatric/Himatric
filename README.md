@@ -1,6 +1,6 @@
 ```ps1
 > import os
-> os.system(f"echo {open('me.json', 'r').read()} | python -m json.tool | pygmentize -l javascript --json")
+> os.system(f"echo {open('me.json', 'r').read()} | pygmentize -l javascript --json")
 ```
 
 ```json
