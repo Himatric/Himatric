@@ -1,4 +1,20 @@
-### Hi there 👋
+```ps1
+> import os
+> os.system(f"echo {open('me.json', 'r').read()} | python -m json.tool | pygmentize -l javascript --json")
+```
+
+```json
+{
+    "username": "Himatric",
+    "alias": "Hima",
+    "languages": [
+        "python",
+        "nodejs",
+        "go"
+    ],
+    "age": 16
+}
+```
 
 <!--
 **Himatric/Himatric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
