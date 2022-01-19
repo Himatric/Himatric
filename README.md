@@ -15,7 +15,9 @@
         "go"
     ],
     "age": 16,
-    "__notes": "Currently working on SEMID"
+    "discord": "Hima#6147",
+    "__notes": "Currently working on SEMID, (dm me if u want anything discord related coded)"
+
 }
 ```
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Himatric&theme=synthwave&show_icons=true&a=balls">
