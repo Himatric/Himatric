@@ -20,5 +20,5 @@
 
 }
 ```
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Himatric&theme=synthwave&show_icons=true&a=balls">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatric&langs_count=5">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Himatric&theme=synthwave&show_icons=true&a=ball">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatric&langs_count=3">
