@@ -15,8 +15,7 @@
         "go"
     ],
     "age": 16,
-    "discord": "Hima#6147",
-    "__notes": "Currently working on SEMID, (dm me if u want anything discord related coded)"
+    "discord": "Hima#6147"
 
 }
 ```
