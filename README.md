@@ -14,8 +14,8 @@
         "nodejs",
         "go"
     ],
-    "age": 17,
-    "discord": "Hima#6147"
+    "age": 18,
+    "discord": "Himaval"
 
 }
 ```
