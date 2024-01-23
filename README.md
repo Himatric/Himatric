@@ -15,7 +15,8 @@
         "go"
     ],
     "age": 18,
-    "discord": "Himaval"
+    "discord": "Himaval",
+    "valorant": "Hima#XANNY"
 
 }
 ```
