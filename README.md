@@ -14,7 +14,7 @@
         "nodejs",
         "go"
     ],
-    "age": 18,
+    "age": 20,
     "discord": "Himaval",
     "valorant": "Hima#XANNY"
 
